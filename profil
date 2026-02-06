@@ -1,1 +1,107 @@
-hallo
+hallo<!DOCTYPE html>
+<html lang="en"
+<Head>
+  <meta charset="utf-8>"
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>belajar html</title>
+    <link rel="stylesheet" href="styl.css">
+  </head>
+  <body>
+  <header id="header">
+    <h4>WARKOP ONO NIHA</h4>
+    <br>
+    <nav>
+      <a href="index.html">home</a>
+      <a href="about.html">about</a>
+      <a href="contact.html">contact</a>
+     </nav>
+  </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Ono niha <br><span>Coffe</span></h1>
+            <p>Keseimbangan antara rasa pahit yang mendalam dan sentuhan manis yang menenangkan jiwa.</p>
+            <div class="cta-buttons">
+                <a href="#" class="btn-primary">Pesan Sekarang</a>
+                <a href="#" class="btn-secondary">Lihat Menu</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="card">
+            <h3>Biji Pilihan</h3>
+            <p>Menggunakan biji kopi Robusta terbaik dari petani lokal.</p>
+        </div>
+        <div class="card">
+            <h3>Manis Alami</h3>
+            <p>Gula aren organik yang memberikan rasa manis karamel.</p>
+        </div>
+        <div class="card">
+            <h3>Freshly Brewed</h3>
+            <p>Diseduh langsung saat Anda memesan untuk menjaga aroma.</p>
+        </div>
+    </section>
+
+</body>
+</html>
+     <section id="landing">
+       <div>
+         <h4>selamat datang di kopi hitam manis
+         </h4>
+      <p>selamat datang di warkop ono niha, ini merupakan usaha kopi yang sudah berdiri dari tahun 1990, usaha warkop ini berkembang dan teruss berkembang mengikutii zaman, warkop ini...
+      </p>
+      </div>
+      <div>
+        <img src="jakaaa zeb.jpg"style="= width :300px;height:250px;">
+      </div>
+     </section>
+          <section id="section2">
+         <h2 id="aneka">Aneka menu</h2>
+       <div id="menu">
+          <div class="aneka-menu">
+           <a href="kopi1.html"><img src="kopi kapal apii.jpg"style="=width :150px;height:150px;"></a><h5>kopi kapal api</a>
+          </div>
+          <div class="aneka-menu">
+            <a href="kopi2.html"> <img src="kopi hitamm.jpg"style="=width :150px;height:150px;"></a><h5>kopi hitam</a>
+          </div>
+          <div class="aneka-menu">
+             <a href="kopi3.html"><img src="kopi susuu.jpg"style="=width :150px;height:150px;"></a><h5>kopi susu</a>
+       </div>
+       </section>
+         <section id="section2">
+       <div id="menu">
+          <div class="aneka-menu">
+            <a href="kopi4.html"><img src="capucino.jpg"style="=width :150px;height:150px;"></a><h5>cappuchino susu</a>
+          </div>
+          <div class="aneka-menu">
+             <a href="kopi5.html"><img src="kopi dingin.jpg"style="=width :150px;height:150px;"></a><h5>kopi dingin</a>
+          </div>
+          <div class="aneka-menu">
+             <a href="kopi6.html"><img src="teh dingin.jpg"style="=width :150px;height:150px;"></a><h5>teh dingin</a>
+       </div>
+     </section>
+     <footer id="footer">
+            <div class="footer-container">
+                <div class="footer-section">
+                    <h3>Media Sosial</h3>
+                    <a><i class="fab fa-facebook"></i></a>
+                    <a><i class="fab fa-instagram"></i></a>
+                    <a><i class="fab fa-tiktok"></i></a>
+                </div>
+                <div class="footer-section">
+                    <h3>Kontak Saya</h3>
+                    <ul>
+                        <a><i class="fas fa-phone">(+62) 85319163512)</i></a>
+                    </ul>
+                    <ul>
+                        <a><i class="fab fa-whatsapp">(+62) 85319163512</i></a>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 jaka zeb. Terima kasih.</p>
+            </div>
+        </footer>
+  </body>
+  </html>
